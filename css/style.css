@@ -1,9 +1,35 @@
-body{
-    background-color: #77ACF1 ;
-}
 h3{
-    margin-top: 1%;
+    font-family: 'Benne', serif;
 }
 #content{
     margin-top: 5%;
+}
+p{
+    font-family: 'Acme', sans-serif;
+    font-family: 'Indie Flower', cursive;
+}
+h1{
+    font-family: 'Benne', serif;
+}
+footer{
+    text-align: center;
+}
+
+.ab{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    line-height: 5%;
+    padding-left: 30%;
+    padding-right: 30%;
+    margin: 10px 10px 10px 10px;
+}
+
+.b{
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Indie Flower', cursive;
+}
+
+.razorpay-embed-btn{
+    padding-left: 75%;
 }
